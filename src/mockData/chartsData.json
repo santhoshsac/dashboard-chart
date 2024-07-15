@@ -1,0 +1,11 @@
+{
+  "chatsData": [
+    { "name": "Jan", "uv": 4000, "pv": 2400, "value": 2400 },
+    { "name": "Feb", "uv": 3000, "pv": 1398, "value": 4567 },
+    { "name": "Mar", "uv": 2000, "pv": 9800, "value": 1398 },
+    { "name": "Apr", "uv": 2780, "pv": 3908, "value": 9800 },
+    { "name": "May", "uv": 1890, "pv": 4800, "value": 3908 },
+    { "name": "Jun", "uv": 2390, "pv": 3800, "value": 4800 },
+    { "name": "Jul", "uv": 3490, "pv": 4300, "value": 3800 }
+  ]
+}
