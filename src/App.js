@@ -6,7 +6,6 @@ import Sidebar from './components/Sidebar/Sidebar';
 import LineChartComponent from './components/Charts/LineChartComponent';
 import BarChartComponent from './components/Charts/BarChartComponent';
 import PieChartComponent from './components/Charts/PieChatComponent';
-import RadarChartComponent  from './components/Charts/RadarChartComponent';
 
 const data = require("./mockData/chartsData.json")
 
